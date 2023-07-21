@@ -1,0 +1,34 @@
+Prompt 1:
+
+        Create a React.Js class component named AddEditContact. The contact details are name, email, address, and phone number. 
+        The respective labels for the fields are Name, Email, Address and Phone Number.
+
+        The form has Save and Reset buttons.
+        Save button is primary button. 
+
+        name field has place holder Contact Name.
+        email field has place holder Contact Email.
+        address field has place holder Contact Address (Lane, Area, City, District, Zip).
+        phone number field has place holder Contact Phone.
+
+        The compulsory fields should have star in red color in the title.
+
+        The entire component is a separate segment.
+        Use appropriate semantic UI styles.
+
+        By default, cursor should be on name field.
+
+
+        name, email, address fields are mandatory to save. phone number is optional.
+        Phone number should only accept integers and should be of 10 digits.
+        Email field should have validation for correct email address format.
+
+
+        On save button contact detail should be returned to App.js.  
+        On Reset button all the field values should be cleared.
+
+Prompt 2:
+        It is showing error - Cannot read properties of undefined (reading 'focus')
+
+Prompt 3:
+        Save the added or edited contact locally in memory.

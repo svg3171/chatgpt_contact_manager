@@ -1,0 +1,24 @@
+Prompt 1:
+    Create a React.Js component ContactList. 
+    It shows the list of ContactCard component.
+
+    The list has only one column with all the items shown in single cell one below other.
+
+    The list has h2 heading Contact List.
+
+    The entire component is a separate segment.
+    Use appropriate semantic UI styles
+
+    The list row is separated by a line.
+
+    The contact list has pagination. The page size is 3.
+
+
+Prompt 2:
+    The list should show the message "No Contacts Available" in case there are no contacts.
+
+Prompt 3:
+    Update ContactList to handle Delete and Edit contact event from ContactCard. 
+
+Prompt 4:
+    In ContactList pass Delete and Edit events to App.js component.

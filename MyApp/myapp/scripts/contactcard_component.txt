@@ -1,0 +1,17 @@
+Prompt 1:
+    Create a React.js component ContactCard. 
+
+    The entire component is a separate segment.
+    Use appropriate semantic UI styles.
+
+    It is two column very relaxed grid.
+
+
+    The left column of grid shows contact details like name, email, address, and phone number fields.
+
+    The name field starts with person icon.
+    The email field starts with email icon. 
+    The address field starts with home icon.
+    The phone number field starts with desk phone icon.
+
+    The right column of the grid has large clickable icon for Delete and Edit contact.

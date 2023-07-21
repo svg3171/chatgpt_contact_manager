@@ -1,0 +1,8 @@
+Prompt 1:
+
+Create a React.js component named Header. 
+It returns a H2 header with text Contact Manager.
+It also has icon with style massive address book icon. 
+The component is aligned to center.
+The entire component is a separate segment.
+Use appropriate semantic UI styles.

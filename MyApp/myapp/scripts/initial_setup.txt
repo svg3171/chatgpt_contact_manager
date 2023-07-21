@@ -1,0 +1,3 @@
+Prompt1:
+
+Create MyApp React.Js application with detailed instructions. We will be using Semantic UI framework for look and feel of the application.
